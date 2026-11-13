@@ -1,7 +1,7 @@
  <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Azimsha%20Shaji&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Turning%20Data%20into%20Insights&descAlignY=58&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Azimsha%20&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Turning%20Data%20into%20Insights&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -25,7 +25,7 @@
 
 ```python
 azimsha = {
-    "name": "Azimsha Shaji",
+    "name": "Azimsha",
     "username": "azimsha-shaji",
     "education": "BSc Mathematics - University of Kerala",
     "role": "Data Analyst Intern at Techolas",
