@@ -1,11 +1,11 @@
  <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Azimsha%20&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Turning%20Data%20into%20Insights&descAlignY=58&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Azimsha%20Shaji&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Turning%20Data%20into%20Insights&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Hi+there%2C+I'm+Azimsha+%F0%9F%91%8B;BSc+Mathematics+%7C+University+of+Kerala;Data+Analyst+Intern+at+Techolas;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Learning+Today%2C+Analysing+Tomorrow" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Hi+there%2C+I'm+Azimsha+%F0%9F%91%8B;BSc+Mathematics+%7C+University+of+Kerala;Data+Analyst+Intern+at+Techolas;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Learning+Today%2C+Analysing+Tomorrow" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,34 +25,32 @@
 
 ```python
 azimsha = {
-    "name": "Azimsha",
+    "name": "Azimsha Shaji",
     "username": "azimsha-shaji",
     "education": "BSc Mathematics - University of Kerala",
     "role": "Data Analyst Intern at Techolas",
     "location": "Kerala, India 🇮🇳",
-
     "interests": [
         "Data Analytics",
         "Data Visualization",
         "Problem Solving",
         "Technology"
     ],
-
     "skills": [
         "Python",
         "SQL",
         "MySQL",
         "Excel",
-        "Power BI"
+        "Power BI",
+        "Tableau"
     ],
-
     "currently_learning": [
         "Python for Data Analysis",
-        "Advanced SQL",
-        "Power BI Dashboards",
+        "SQL and MySQL",
+        "Power BI",
+        "Tableau",
         "Data Cleaning"
     ],
-
     "goal": "Become a skilled Data Analyst"
 }
 ```
@@ -75,7 +73,8 @@ I'm continuously improving my skills in:
 - **Python** – Programming and data analysis
 - **SQL & MySQL** – Querying, filtering and analysing data
 - **Excel** – Data organisation and analysis
-- **Power BI** – Data visualization and dashboards
+- **Power BI** – Interactive dashboards and data visualization
+- **Tableau** – Data visualization and dashboard development
 
 My goal is to build practical projects, strengthen my analytical skills and grow into a professional Data Analyst.
 
@@ -113,6 +112,7 @@ My goal is to build practical projects, strengthen my analytical skills and grow
 <p>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ### ⬡ Development Tools
@@ -130,6 +130,7 @@ My goal is to build practical projects, strengthen my analytical skills and grow
 <img src="https://img.shields.io/badge/Python%20for%20Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI%20Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau%20Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Cleaning-7c3aed?style=for-the-badge" />
 </p>
 
@@ -150,7 +151,8 @@ I'm building my portfolio from the ground up. Here are the areas where I'll be s
 | SQL Analysis | Database queries, joins and analytical queries | MySQL |
 | Excel Analysis | Data cleaning, formulas and analysis | Excel |
 | Power BI Dashboards | Interactive dashboards and visualizations | Power BI |
-| Data Analytics Projects | End-to-end data analysis projects | Python, SQL, Power BI |
+| Tableau Dashboards | Interactive data visualizations and dashboards | Tableau |
+| Data Analytics Projects | End-to-end data analysis projects | Python, SQL, Excel, Power BI, Tableau |
 
 **Projects will be added here as I complete and document them.**
 
